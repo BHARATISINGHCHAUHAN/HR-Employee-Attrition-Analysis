@@ -34,7 +34,7 @@ The objective is to explore employee attrition patterns and generate meaningful 
 - How does overtime affect attrition?
 - Does business travel impact attrition?
 - How does job satisfaction relate to    attrition?
-- Which employees earn above the company average salary?
+- Which department have the highest average monthly income?
 
 ## Key Insights
 - Total Employees: 1,470
@@ -43,6 +43,7 @@ The objective is to explore employee attrition patterns and generate meaningful 
 - Employees who travel frequently showed higher attrition.
 - Employees working overtime were more likely to leave.
 - Single employees had the highest attrition rate.
+- The sales department had the highest average monthly income among the three departments analyzed
 
 ## Repository Contents
 - HR_Employee_Attrition_Analysis.sql

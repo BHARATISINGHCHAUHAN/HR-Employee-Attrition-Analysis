@@ -42,7 +42,8 @@ The objective is to explore employee attrition patterns and generate meaningful 
 - Sales department had the highest attrition rate.
 - Employees who travel frequently showed higher attrition.
 - Employees working overtime were more likely to leave.
-- Single employees had the highest attrition rate.
+- Single employees had the highest attrition rate(25.53℅).
+- lower job satisfaction was associated with higher attrition
 - The sales department had the highest average monthly income among the three departments analyzed
 
 ## Repository Contents
